@@ -7,7 +7,7 @@ width="200" hspace="10" vspace="10">
 
 Goen can hide the text given in the provided image and that image user can send to anyone freely.
 The same image can be decrypted and data/text can be retrieved from it using this app.
-Can be used for both- fun or security purposes.
+Can be used for both- fun or security purposes.<br>
 Goen может скрыть текст, указанный в предоставленном изображении, и пользователь этого изображения может свободно отправить его кому угодно. С помощью этого приложения можно расшифровать одно и то же изображение и извлечь из него данные/текст. Может использоваться как в целях развлечения, так и в целях безопасности.
 
 
