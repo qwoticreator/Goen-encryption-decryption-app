@@ -31,7 +31,7 @@ Can be used for both- fun or security purposes.
 [<img src="/screenshots/screens1.png" align="left"
 width="200"
 hspace="10" vspace="10">](/screenshots/screens1.png)
-[<img src="/screenshots/screens29.png" align="left"
+[<img src="/screenshots/screens2.png" align="left"
 width="200"
 hspace="10" vspace="10">](/screenshots/screens2.png)
 
